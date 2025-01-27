@@ -1,6 +1,6 @@
 Making Odin Project Problem Solving Foundations Course https://www.theodinproject.com/lessons/foundations-problem-solving
 
-Trying to make myself FizzBizz program without lookign for solution as i find it interesting. 
+Trying to make myself FizzBizz program without looking for solution as i find it interesting. 
 
 Program that takes a user’s input and prints the numbers from one to the number the user entered. 
 However, for multiples of three print Fizz instead of the numberand for the multiples of five print Buzz. 
